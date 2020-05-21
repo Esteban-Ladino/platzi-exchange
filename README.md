@@ -3,7 +3,7 @@ This is a platform that will serve you to visualize all cryptocurrencies in real
 Created using VueJS
 
 ## Demo
-If you want to see the demo of this project deployed, you can visit it here
+If you want to see the demo of this project deployed, you can visit it [here](https://esteban-exchange-project.netlify.app/)
 
 ## How to clone
 You can clone the repository
